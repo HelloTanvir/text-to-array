@@ -1,0 +1,21 @@
+{
+  "name": "text-separate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./compilled/index.js",
+  "scripts": {
+    "start": "node ./compilled/index.js",
+    "dev": "nodemon ./compilled/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.10",
+    "nodemon": "^2.0.12",
+    "typescript": "^4.3.5"
+  }
+}
